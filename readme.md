@@ -4,7 +4,7 @@ Download [Node.js](https://nodejs.org/en/download/).
 
 Open your terminal in your directory
 
-Run this followed commands:
+Run the following commands:
 
 ``` bash
 # Clone the repo
