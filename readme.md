@@ -1,6 +1,4 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
-
+# Three.js Logo Project
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
