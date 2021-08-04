@@ -19,3 +19,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Use-Case
+This is a 3d-project with Mouse-OnPressed Movements to rotate the 3d-object.
